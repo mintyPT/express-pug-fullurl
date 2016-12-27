@@ -1,0 +1,19 @@
+{
+  "name": "express-pug-fullurl",
+  "version": "0.0.1",
+  "description": "Inject the full url into pug's locals (express) Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mintyPT/express-pug-fullurl.git"
+  },
+  "author": "Mauro Santos <“mauro.goncalo@gmail.com”> (http://maurogoncalo.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mintyPT/express-pug-fullurl/issues"
+  },
+  "homepage": "https://github.com/mintyPT/express-pug-fullurl#readme"
+}
